@@ -30,5 +30,3 @@ Decrypted: gaitober => gato
 HTML
 CSS
 JavaScript
-🌐 Project Link
-Access the project here
